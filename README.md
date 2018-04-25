@@ -6,6 +6,7 @@ What needs to be done : https://docs.google.com/document/d/1idt6mwDiK1NA9-H-HKVj
 Sample Presentation : https://docs.google.com/presentation/d/1vW3FizVXHZEGw1DHzYiCx7A2LPFLr0kwF4xRaKFYMcU/edit#slide=id.p8
 
 Grading Criteria :
+
 10% data cleaning and processing (final dataset to be submitted).
 
 10% hypotheses to be tested (range of hypotheses involved and logic/reasoning behind it).

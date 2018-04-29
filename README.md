@@ -7,6 +7,12 @@ Our Presentation : https://docs.google.com/presentation/d/1kjzfO99HZUmJRdIcDEnBh
 
 Sample Presentation : https://docs.google.com/presentation/d/1vW3FizVXHZEGw1DHzYiCx7A2LPFLr0kwF4xRaKFYMcU/edit#slide=id.p8
 
+Hypothesis Result:
+
+1. Sweta 
+
+![](https://github.com/swetakum/CSE544project/blob/master/images/Results_Sweta.PNG)
+
 Grading Criteria :
 
 10% data cleaning and processing (final dataset to be submitted).

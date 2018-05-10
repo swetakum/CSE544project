@@ -9,7 +9,21 @@ We have picked the LA payroll data of government employees ranging from 2013 to 
   
   2. Work of non-risky departments are stagnant and is more likely to be forecasted, but the work for risky departments are very unpredictable and hence their salary distributions in the two halves of the year varies.
   
-  3.Health Benefits follow same distribution over career ladders.
+  3. Health Benefits follow same distribution over career ladders.
     
   4. Annual salaries can be predicted with very low error after required data pre-processing
+  
+Techniques used:
+
+  1. Two sample t-test
+  
+  2. Wald's test
+  
+  3. Permutation test
+  
+  4. KS test
+  
+  5. Linear Regression
+  
+  6. Estimator
     

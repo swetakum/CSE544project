@@ -1,28 +1,15 @@
 # CSE544project
 CSE 544 Probability and Statistics for Data Science.
 
-What needs to be done : https://docs.google.com/document/d/1idt6mwDiK1NA9-H-HKVjS811On7s7cQvhpUbx4n36DM/edit?ts=5ac50e2f
+Hypothesis testing is an essential procedure in statistics  which is used to evaluate two mutually exclusive hypothesis about a data set to determine which hypothesis is best supported by the sample data.
 
-Our Presentation : https://docs.google.com/presentation/d/1kjzfO99HZUmJRdIcDEnBhiNtd18xHrTd2qIM28T53oQ/edit?usp=sharing
+We have picked the LA payroll data of government employees ranging from 2013 to 2016. We are interested in finding interesting statistical answers and insights from the data. Majorly, we are interested in following hypotheses:
 
-Sample Presentation : https://docs.google.com/presentation/d/1vW3FizVXHZEGw1DHzYiCx7A2LPFLr0kwF4xRaKFYMcU/edit#slide=id.p8
-
-Hypothesis Result:
-
-1. Sweta 
-
-![](https://github.com/swetakum/CSE544project/blob/master/images/Results_Sweta.PNG)
-
-Grading Criteria :
-
-10% data cleaning and processing (final dataset to be submitted).
-
-10% hypotheses to be tested (range of hypotheses involved and logic/reasoning behind it).
-
-20% techniques used (range of techniques involved and how thoroughly they were applied and evaluated).
-
-30% discretionary (largely based on group discipline/timeliness, non-triviality of project, and effort involved).
-
-15% final in-class project presentation.
-
-15% final 5-page project report.
+  1. Annual pay and hourly pay doesn't increase over the years
+  
+  2. Work of non-risky departments are stagnant and is more likely to be forecasted, but the work for risky departments are very unpredictable and hence their salary distributions in the two halves of the year varies.
+  
+  3.Health Benefits follow same distribution over career ladders.
+    
+  4. Annual salaries can be predicted with very low error after required data pre-processing
+    
